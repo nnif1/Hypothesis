@@ -156,6 +156,10 @@
     - trayScanner
     - AccessConfiguratorUniversal
     - Multitool
+    - Omnitool #hypo edit start
+    - WelderExperimental
+    - GeigerCounter
+    - DoorRemoteAll #hypo edit end
 
 #Gladiator with spear
 - type: startingGear
